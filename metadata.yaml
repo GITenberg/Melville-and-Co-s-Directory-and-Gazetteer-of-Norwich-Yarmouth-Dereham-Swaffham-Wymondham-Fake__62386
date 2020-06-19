@@ -1,0 +1,29 @@
+_repo: Melville-and-Co-s-Directory-and-Gazetteer-of-Norwich-Yarmouth-Dereham-Swaffham-Wymondham-Fake__62386
+_version: 0.0.1
+creator:
+  author:
+    agent_name: F. R. Melville & Co.
+    alias: F. R. Melville and Co.
+    gutenberg_agent_id: '51920'
+    url: http://www.gutenberg.org/2009/agents/51920
+description: ''
+gutenberg_issued: '2020-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Suffolk (England) -- Gazetteers'
+- !lcc 'DA'
+- !lcsh 'Norfolk (England) -- Gazetteers'
+- !lcsh 'Suffolk (England) -- Directories'
+- !lcsh 'Norfolk (England) -- Directories'
+- GITenberg
+title: Melville and Co.'s Directory and Gazetteer of Norwich, Yarmouth, Dereham, Swaffham,
+  Wymondham, Fakenham, Thetford, Attleborough, Aylsham, Diss, Reepham, Foulsham, Hingham,
+  &c.; Ipswich, Bury St. Edmund’s, Woodbridge, Lowestoft, Beccles, Bungay, Halesworth,
+  Eye, Stowmarket, Needham Market, &c. [1856]
+url: http://www.gutenberg.org/ebooks/62386
